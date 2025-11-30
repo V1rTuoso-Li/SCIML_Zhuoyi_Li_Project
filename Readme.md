@@ -1,6 +1,6 @@
 Data (raw & processed)
 
-data/kbwi_2025.csv.csv
+data/kbwi_2025.csv
 Raw NOAA Global-Hourly source used to derive outdoor temperature for 2025 (BWI station). Original input to Step 1.
 
 data/processed_data.csv
