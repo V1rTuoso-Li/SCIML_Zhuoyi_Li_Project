@@ -9,7 +9,7 @@ This repository documents the artifacts for a three-step pipeline that implement
 **Purpose:** Ingest raw NOAA Global-Hourly data, resample to 5-minute cadence, synthesize/align indoor temperature and ON/OFF signals, and build supervised learning datasets.
 
 ### Inputs
-- `data/kbwi_2025.csv.csv`  
+- `data/kbwi_2025.csv`  
   Raw NOAA Global-Hourly source (BWI station, 2025). Original input to Step 1.
 
 ### Outputs
